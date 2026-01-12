@@ -1,109 +1,56 @@
-# 👩🏻‍💻 Vitória Millnitz
+# Oii, Aqui é a Vitória Millnitz!
 
-**`Desenvolvedora Backend`**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriamillnitz&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
-Me chamo Vitória Millnitz. Sou Engenheira de Software pela UTFPR. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube [Vitória Millnitz](https://www.youtube.com/@vitoriamillnitz), onde ensino a criar projetos web, e também através do Instagram, com o perfil  [Vitória Millnitz | Engenheira de Software](https://www.instagram.com/vitoriamillnitz/).
+### Sobre Mim
+Engenheira de Software pela Universidade Tecnológica Federal do Paraná e Desenvolvedora Back-End.
 
-### 🤖 Linguagens e Tecnologias
+* 🎓 Graduada em  **Engenharia de Software** pela **UTFPR**.
+* 🚀 Focada em **Java**, **SrpringBoot**, e **Clean Code**.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<br/>
-<br/>
-### 📊 Estatísticas
+### 🛠️ Ferramentas & Habilidades
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vitoriamillnitz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriamillnitz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+#### **Desenvolvimento Back-End & Arquitetura**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </p>
+
+#### **Banco de Dados**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+#### **DevOps, Teste & Observabilidade**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
+</p>
+
+---
+
+### 🏛️ Arquitetura & Princípios
+`Clean Architecture` • `SOLID` • `Design Patterns (Factory, Singleton)` • `Unit Testing`
+
+---
+
+### 📫 Vamos nos conectar!
+
+<div align="center">
+  <a href="linkedin.com/in/vitória-millnitz" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="vitoriamillnitzg@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+<img width="650" height="432" alt="pic1 (1)" src="https://github.com/user-attachments/assets/421bdd54-577c-4991-a0c4-555d101e851d" />
+</div>
