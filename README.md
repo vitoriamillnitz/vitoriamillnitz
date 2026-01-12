@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend`**
 
-Me chamo Vitória Millnitz. Sou Engenheira de Software pela UTFPR. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Vitória Millnitz](https://www.youtube.com/@vitoriamillnitz)", onde ensino a criar projetos web, e também através do Instagram, com o perfil  "[Vitória Millnitz | Engenheira de Software](https://www.instagram.com/vitoriamillnitz/)".
+Me chamo Vitória Millnitz. Sou Engenheira de Software pela UTFPR. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube [Vitória Millnitz](https://www.youtube.com/@vitoriamillnitz), onde ensino a criar projetos web, e também através do Instagram, com o perfil  [Vitória Millnitz | Engenheira de Software](https://www.instagram.com/vitoriamillnitz/).
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
