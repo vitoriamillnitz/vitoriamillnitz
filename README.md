@@ -1,9 +1,5 @@
 # Oii, Aqui é a Vitória Millnitz!
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriamillnitz&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-
 ### Sobre Mim
 Engenheira de Software pela Universidade Tecnológica Federal do Paraná e Desenvolvedora Back-End.
 
