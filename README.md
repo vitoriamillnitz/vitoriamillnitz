@@ -18,12 +18,17 @@ Engenheira de Software pela Universidade Tecnológica Federal do Paraná e Desen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </p>
 
+---
+
+
 #### **Banco de Dados**
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
+
+---
 
 #### **DevOps, Teste & Observabilidade**
 <p align="left">
@@ -47,10 +52,4 @@ Engenheira de Software pela Universidade Tecnológica Federal do Paraná e Desen
   <a href="vitoriamillnitzg@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
-
-<br>
-
-<div align="center">
-<img width="650" height="432" alt="pic1 (1)" src="https://github.com/user-attachments/assets/421bdd54-577c-4991-a0c4-555d101e851d" />
 </div>
