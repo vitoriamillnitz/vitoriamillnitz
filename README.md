@@ -88,5 +88,5 @@ Me chamo Vitória Millnitz. Sou Engenheira de Software pela UTFPR. Sou apaixonad
 />
 <br/>
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriamillnitz&commits_year=2020)
 </p>
